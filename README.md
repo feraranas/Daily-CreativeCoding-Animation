@@ -1,1 +1,3 @@
-# Daily-Coding-Animation
+# Daily Coding Animation
+
+Day 1
