@@ -1,4 +1,4 @@
-# Daily Coding Animation
+# Daily Creative Coding Animation
 
 Day 1
 </br>
