@@ -1,6 +1,4 @@
 # Daily Coding Animation
 
 Day 1
-<div width="200" height="200">
- ![Dot](./DotMovingCircle/DotMovingCircle.gif) / ! [](./DotMovingCircle/DotMovingCircle.gif)
-</div>
+<img width="400" height="250" src="./DotMovingCircle/DotMovingCircle.gif" alt="dot" />
