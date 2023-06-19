@@ -1,4 +1,5 @@
 # Daily Coding Animation
+The goal is to create something expressive instead of something functional.</br>
 Made with processing.
 
 | | | |
