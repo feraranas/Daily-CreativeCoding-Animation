@@ -1,0 +1,13 @@
+http://web.archive.org/web/20160530124230/http://freespace.virgin.net/hugo.elias/models/m_perlin.htm
+Books on PRNGs and TRNGs:
+     1. "Randomness: The Power of Coincidence, Chance, and Luck" by Deborah J. Bennett: 
+     2. The Drunkard's Walk: How Randomness Rules Our Lives" by Leonard Mlodinow
+     3. "Randomness and Randomization in Experimental Design" by David J. Balding, Noel A. C. Cressie, and Garrett M. Fitzmaurice
+     4. "The Drunkard's Walk: How Randomness Rules Our Lives" by Nassim Nicholas Taleb
+     5. "Probability: For the Enthusiastic Beginner" by David J. Morin
+
+     -> Maths on PRNGs and TRNGs
+     -1. https://en.wikipedia.org/wiki/Modular_arithmetic
+     0. https://en.wikipedia.org/wiki/Linear_congruential_generator
+     1. https://en.wikipedia.org/wiki/Piecewise_linear_function
+     2. https://en.wikipedia.org/wiki/Affine_transformation
