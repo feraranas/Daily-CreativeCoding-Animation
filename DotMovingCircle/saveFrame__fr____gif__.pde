@@ -29,3 +29,29 @@ void draw()
     println("All frames have been saved");
   }
 }
+
+/* 
+Another way of doing this trace:::
+
+void setup() {
+  size(500,500);
+  smooth(8);
+}
+
+int numFrames = 100;
+
+void draw() {
+  background(255);
+  
+  float t = 1.0*(frameCount - 1) / numFrames;
+  point(width/2, height/2);
+  
+  float r = 100.0;
+  
+  float x = map(cos(TWO_PI), -1, 1, -r, r);
+  float y = map(sin(TWO_PI), -1, 1, -r, r);
+  
+  strokeWeight(20);
+  point(width/2 + x, height/2 + y);
+ 
+*/

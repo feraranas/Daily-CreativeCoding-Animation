@@ -1,4 +1,6 @@
-http://web.archive.org/web/20160530124230/http://freespace.virgin.net/hugo.elias/models/m_perlin.htm
+Creative Coding
+     - What is Creative Coding : https://timrodenbroeker.de/what-is-creative-coding/
+
 Books on PRNGs and TRNGs:
      1. "Randomness: The Power of Coincidence, Chance, and Luck" by Deborah J. Bennett: 
      2. The Drunkard's Walk: How Randomness Rules Our Lives" by Leonard Mlodinow
@@ -11,3 +13,16 @@ Books on PRNGs and TRNGs:
      0. https://en.wikipedia.org/wiki/Linear_congruential_generator
      1. https://en.wikipedia.org/wiki/Piecewise_linear_function
      2. https://en.wikipedia.org/wiki/Affine_transformation
+
+     - Pseudo Random Number Generator : https://www.geeksforgeeks.org/pseudo-random-number-generator-prng/
+     - Modular Arithmetic : https://en.wikipedia.org/wiki/Modular_arithmetic
+
+Ken Perlin
+     - Ken Perlin: The Coming Age of Computer Graphics (Sanders Series Lecture) : https://www.youtube.com/watch?v=iWa4t9oa5zw
+
+Perlin Noise
+     - Perlin Noise : http://web.archive.org/web/20160530124230/http://freespace.virgin.net/hugo.elias/models/m_perlin.htm
+
+OpenSimplexNoise:
+     - What is OpenSimplexNoise : https://www.youtube.com/watch?v=Lv9gyZZJPE0
+     - I.3: noise() vs random() - Perlin Noise and p5.js Tutorial
