@@ -26,3 +26,7 @@ Perlin Noise
 OpenSimplexNoise:
      - What is OpenSimplexNoise : https://www.youtube.com/watch?v=Lv9gyZZJPE0
      - I.3: noise() vs random() - Perlin Noise and p5.js Tutorial
+
+
+Inspiration: 
+     - https://www.youtube.com/watch?v=1dPFgWT2Aio&list=WL&index=3&t=184s
