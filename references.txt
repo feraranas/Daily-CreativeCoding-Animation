@@ -30,3 +30,14 @@ OpenSimplexNoise:
 
 Inspiration: 
      - https://www.youtube.com/watch?v=1dPFgWT2Aio&list=WL&index=3&t=184s
+     - https://muda.co/zurich/
+     - Raven Kwok : 
+          - https://ravenkwok.com/
+          Most notable work to me:
+          - https://ravenkwok.com/spacewarp/
+          - https://ravenkwok.com/time-left-shift-7/
+          - https://ravenkwok.com/189d3-pentium/
+     - Zach Lieberman : 
+          - http://zach.li/
+     - Vera Monlár : 
+          - https://muda.co/veramolnar/

@@ -20,10 +20,8 @@ void draw() {
  
   noFill();
   strokeWeight(1);
-  stroke(255);
   float d = grid * 0.6;
   
-  rectMode(CENTER);
   for (int i = margin; i <= width - margin; i+= grid) {
     for (int j = margin; j <= height - margin; j+= grid) {
       
@@ -49,7 +47,8 @@ void draw() {
       }
     }
   }
+  /*
   if (frameCount <= numFrames) {
     saveFrame("fr###.gif");
-  }
+  }*/
 }
